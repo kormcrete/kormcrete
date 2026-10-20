@@ -3,4 +3,4 @@
   <img alt="kormcrete" src="brand/kormcrete-lockup-light.png" width="448">
 </picture>
 
-Making things. Mostly software.
+Solid software, start to finish.
